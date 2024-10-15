@@ -9,7 +9,7 @@ Este script carrega diretamente um menu pré-configurado de um repositório remo
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Menu/refs/heads/main/NoLoader.lua"))();
 
 
-# Menu com loade:
+# Menu com loader:
 
 ![Imgui](Screenshot_20241014_145015_Roblox.jpg)
 
