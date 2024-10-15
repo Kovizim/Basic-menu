@@ -6,7 +6,7 @@ Descrição:
 Este script carrega diretamente um menu pré-configurado de um repositório remoto no GitHub. Ele é ideal para quem deseja uma implementação rápida e prática, sem etapas adicionais como verificações de integridade ou carregamentos de recursos extras. Basta executar o script, e o menu estará disponível imediatamente. Recomendado para usuários que precisam de simplicidade e eficiência.
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Basic-menu/refs/heads/main/Meumenu.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Menu/refs/heads/main/NoLoader.lua"))();
 
 
 # Menu com loade:
