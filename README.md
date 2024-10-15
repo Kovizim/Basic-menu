@@ -17,4 +17,4 @@ Descrição:
 Esse script utiliza um loader, uma etapa intermediária que pode realizar várias tarefas antes de carregar o menu principal. O loader pode ser usado para verificar se o ambiente de execução está correto, carregar dependências adicionais ou garantir que o menu esteja otimizado para o uso. Essa abordagem é útil para garantir uma experiência mais robusta, especialmente em ambientes dinâmicos, onde o menu pode precisar de ajustes antes de ser exibido.
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Basic-menu/refs/heads/main/Loader.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Menu/refs/heads/main/Loader.lua"))();
