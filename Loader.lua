@@ -41,7 +41,7 @@ local function CreateProgressBar()
     -- Atualizando a barra de progresso
     coroutine.wrap(function()
         for Percentage = 0, 100 do
-            wait(0.2) -- Velocidade da barra
+            wait(0.9) -- Velocidade da barra
             ProgressBar:SetPercentage(Percentage)
 
             -- Destrói o menu e executa o código quando atingir 100%
