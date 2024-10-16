@@ -47,7 +47,7 @@ local function CreateProgressBar()
             -- Destrói o menu e executa o código quando atingir 100%
             if Percentage >= 100 then
                 KeySystem:Destroy() -- Destrói o menu
-                loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Basic-menu/refs/heads/main/Meumenu.lua"))() -- Executa o código
+                loadstring(game:HttpGet("https://raw.githubusercontent.com/Kovizim/Menu/refs/heads/main/NoLoader.lua"))();
                 break
             end
         end
